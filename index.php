@@ -1,5 +1,4 @@
 <!doctype html>
-mg,ljwsierl
 <html lang="en-US">
 <head>
 <title>RPCS3 - The PlayStation 3 Emulator</title>
